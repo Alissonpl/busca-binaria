@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto foi desenvolvido para um trabalho da disciplina de Organização de Dados, com intuito de obter infomação e apredizado de como a Busca Binaria se comporta. Foi criado uma função para ler o dados em tempo de Busca Binaria do Arquivo JSON e outra para inserir os dados no arquivo JSON.
+O projeto foi desenvolvido para um trabalho da disciplina de Organização de Dados, com intuito de obter informação e aprendizado de como a Busca Binaria se comporta. Foi criado uma função para ler o dados em tempo de Busca Binaria do Arquivo JSON e outra para inserir os dados no arquivo JSON.
 
 Para o teste e funcionamento da busca Binaria, deve se ater aos seguintes detalhes:
 
