@@ -23,16 +23,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto foi desenvolvido com intuito de obter infomação e apredizado sobre as tecnologias citadas acima. Programado um CRUD simples de produto, Create (Criação), Read (Consulta), Update (Atualização) e Delete (Destruição).
+O projeto foi desenvolvido para um trabalho da disciplina de Organização de Dados, com intuito de obter infomação e apredizado de como a Busca Binaria se comporta. Foi criado uma função para ler o dados em tempo de Busca Binaria do Arquivo JSON e outra para inserir os dados no arquivo JSON.
 
-## 🤔 Como contribuir
+Para o teste e funcionamento da busca Binaria, deve se ater aos seguintes detalhes:
 
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
-
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+- Devem ser feitos pelo Insomnia ou Postman, ou qualquer outro que possa simular as chamadas de uma API;
+- Ele é inteiro feito como uma API, ou seja no lado do servidor, então para iniciar o mesmo, você deve usar este comando (node buscaBinaria.js) em um terminal;
+- A porta usada é a 8080;
+- As chamadas são /ler e /enviar as duas são POST com corpo JSON;
+- A read recebe um objeto chamado ID
+- A enviar recebe um json neste formato:{"nome":"alisson1"}
 
 ---
 
