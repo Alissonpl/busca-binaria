@@ -5,21 +5,16 @@
 <p align="center">
   |&nbsp;&nbsp;&nbsp;<a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="Busca-Binaria" src="https://github.com/Alissonpl/simples-crud-1/blob/master/Captura%20de%20ecr%C3%A3%20de%202020-05-25%2016-46-08.png" width="100%">
-</p>
 
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
-- [Armeazenamento em um documento JSON](https://www.json.org/json-pt.html)
+- [Armazenamento em um documento JSON](https://www.json.org/json-pt.html)
 
 ## 💻 Projeto
 
