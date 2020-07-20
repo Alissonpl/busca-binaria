@@ -19,7 +19,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
--[Armeazenamento em um documento JSON](https://www.json.org/json-pt.html)
+- [Armeazenamento em um documento JSON](https://www.json.org/json-pt.html)
 
 ## 💻 Projeto
 
